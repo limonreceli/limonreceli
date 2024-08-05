@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
   
   <br> <br>
-  Im also very proficient in a ton of different tools I've mentioned below. I've been professionally programming (getting paid) since I started high school at small local startups. I like neuroscience.
+  Im also very proficient in a ton of different tools I've mentioned below. I've been professionally programming (getting paid) at small local startups since I started high school. I like neuroscience.
 
   ♪ I'm the doctor, I'm the patient ♪
 </p>
